@@ -1,0 +1,33 @@
+_repo: Der-Pilger-Kamanita--Ein-Legendenroman_14962
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gjellerup, Karl
+    alias: Gjellerup, Karl Adolph
+    birthdate: 1857
+    deathdate: 1919
+    gutenberg_agent_id: '5757'
+    url: http://www.gutenberg.org/2009/agents/5757
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Karl_Gjellerup
+    - http://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14962'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious fiction'
+- !lcsh 'Buddhists -- Fiction'
+- !lcsh 'Gautama Buddha -- Fiction'
+- !lcc 'PT'
+title: 'Der Pilger Kamanita: Ein Legendenroman'
+url: http://www.gutenberg.org/ebooks/14962
